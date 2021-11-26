@@ -1,0 +1,18 @@
+Online Resources
+Demo Links 
+Regular expression: https://regexr.com/ 
+
+NLTK Tokenization: https://text-processing.com/demo/tokenize/
+
+NLTK Stemming and Lemmatization: https://text-processing.com/demo/stem/  
+
+spaCy demo: https://explosion.ai/software#demos 
+
+AllenNLP demo: https://demo.allennlp.org/dependency-parsing 
+
+Markov Chains: https://setosa.io/blog/2014/07/26/markov-chains/  
+Online resources
+Online textbook 3rd Edition: https://web.stanford.edu/~jurafsky/slp3/  
+Google N-Gram dataset: https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html 
+Stemming and Lemmatization explanations: https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html  
+Universal Dependency Relations: https://universaldependencies.org/u/dep/index.html 

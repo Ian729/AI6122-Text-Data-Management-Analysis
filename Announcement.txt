@@ -1,0 +1,185 @@
+Quiz results
+Posted on: Wednesday, November 10, 2021 9:33:23 AM SGT
+
+Dear Students 
+
+Quiz results are released through NTULearn. True/False and MCQ questions are automatically marked by the system, and two short answer questions are marked by me. For your reference: the highest mark is 26 (out of 30), mean is 18.04, and median is 18. 
+
+Regards,
+
+Aixin
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Directed reading submission by 19 Nov
+Posted on: Wednesday, November 3, 2021 8:58:12 AM SGT
+
+Dear Student 
+
+As discussed in lecture, the deadline for directed reading submission is extended to 19 Nov (Friday, Week 14). A submission link has been created under course website --> Assignments --> Directed Reading Submission. 
+
+1. Each student needs to pickup one topic of interest and read at least 3 research papers on this same topic, from the papers published in the following conferences (SIGIR, ACL, WSDM, and WWW). You may choose conferences of comparable quality, e.g., KDD, EMNLP, ICML, NeurIPS, or journals like IEEE TKDE, ACM TOIS, and TACL.  
+
+2. You will need to write a 3-page report in ACM proceeding format (the same format as SIGIR papers, double column). The report shall be written in a way to introduce this topic with coherent structure based on the materials in these three papers and other suppporting materials. All external sources shall be well cited. 
+
+3. You can find the paper titles from DBLP listing below (click "contents" after each proceedings). You must choose *full papers* from the main conference proceedings (not workshop, tutorial, or demos) and a chosen paper shall have at least 7 pages for its main content.
+SIGIR: https://dblp.uni-trier.de/db/conf/sigir/index.html
+ACL: https://dblp.uni-trier.de/db/conf/acl/index.html
+WSDM: https://dblp.uni-trier.de/db/conf/wsdm/index.html
+WWW: https://dblp.uni-trier.de/db/conf/www/index.html  
+
+4. The full text in PDF of a paper maybe obtained through Google. Alternatively, you may access ACM or other digital libraries through NTU Library: https://libguides.ntu.edu.sg/az.php 
+
+Regards,
+
+Aixin
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Quiz on Tuesday
+Posted on: Sunday, October 31, 2021 8:15:57 PM SGT
+
+Dear Students
+
+This is a reminder for the quiz to be conducted on Tuesday (2 Nov) during the lecture slot.
+
+1. Time: The quiz duration is 30 minutes, to be conducted within the first hour of the lecture slot (from 6:30 to 7:30). Please note that we have 70+ students, so it is unlikely we are able to start exactly from 6:30. Likely we can start at 6:40 when everyone is ready. 
+
+2. Format: The quiz is online through NTULearn with the Lockdown browser.  You may refer to reference materials in hardcopy. Referring to lecture notes in softcopy (e.g., through an iPad) is NOT allowed. This is to avoid possible communication. You are allowed to use calculator and/or rough paper. The link location of the quiz in NTULearn will be the same folder as the mock quiz when it is released.
+
+3. Questions: The quiz contains True/False questions (1 mark each), MCQ questions (2 marks each), and short answer questions (3 marks each) with a total mark of 30. The questions will appear randomly.  The topics to be covered in the quiz include all the topics till Parsing (i.e., all lectures before the topic of text classification, text classification is not included). The slides on Lucene is not included. 
+
+4. You will need a password to access the quiz. The password will be released through Microsoft Teams, the channel we conduct lectures. Before the quiz start, you must login the Teams with a mobile phone, camera on.
+
+
+
+Regards
+
+Aixin 
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Mock quiz
+Posted on: Wednesday, October 20, 2021 10:06:26 AM SGT
+
+Dear All 
+
+A mock quiz has been created for you to try out whether LockDown browser works well on your computer. You can access the mock quiz through NTULearn: Content -> Quiz -> Mock quiz. 
+
+Password is: mockquiz 
+
+Regards,
+
+Aixin 
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Assignment submission by 25 Oct 2021
+Posted on: Saturday, October 16, 2021 9:05:25 AM SGT
+
+Dear All 
+
+This is a reminder that the assignment submission deadline is 25 Oct 2021 (11:59PM). I have created the assignment submission link under course website: Assignment -> Assignment submission link. Please follow the instructions for submission.
+
+1. For your safety, we will no long request for hardcopy submission. Instead, please complete the full submission (e.g., the AI6122_Gxx.zip) on NTULearn and email me your PDF report only.  Only one submission and one email is sufficient for one group. Gxx is your group ID. 
+
+2. Please note that in the AI6122_Gxx.zip, you do NOT need to include the dataset or processed files or third-part libraries. However, if you want to ensure that I can get the same copy as you, you may use an online sharing service like Google Drive, OneDrive, or other services and include the sharable links to the data/library files in Readme.txt. 
+
+3. You may submit for at most 3 times for the online submission at NTULearn. The submission link will disappear after the submission deadline. 
+
+Regards,
+
+Aixin 
+
+
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Assignment Group
+Posted on: Sunday, September 19, 2021 10:04:48 PM SGT
+
+Dear All
+
+Many thanks for forming assignment groups. Based on the shared google sheet, I have done an additional random allocation to finalize the assignment groups. Please check the assignment group listing under NTULearn course website -> Assignment -> Group List. If there is any error, please let me know.
+
+Regards,
+
+Aixin
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Assignment, Quiz, and Directed Reading
+Posted on: Friday, September 17, 2021 11:25:50 AM SGT
+
+Dear All
+
+1. The assignment has been released and the submission dealine is 25 Oct 2021 (Week 11).
+
+2. The quiz is scheduled in Weed 12, during lecture time slot (2 Nov). The quiz will be online through NTULearn with the Lockdown browser https://download.respondus.com/lockdown/download.php?id=946716216 (A mock quiz will be setup one week before the formal quiz). The types of questions include true/false, MCQ, and short answer.  The online quiz is *OPEN BOOK* but you are only allowed to access *hardcopy* materials like lecture notes and textbooks. You are NOT allowed to use a third device (e.g., iPad) to access the material in softcopy. This is to avoid possible communication, the same as open book exam conducted in exam hall.
+
+3. The directed reading is to be submitted by end of Week 13 (12 Nov). Each student needs to pickup one topic of interest and read at least 3 research papers on this topic, from the papers published in the following conferences (SIGIR, ACL, WSDM, and WWW). You will need to write a 3-page report in ACM proceeding format (the same format as SIGIR papers).  You can find the paper titles from DBLP listing below (click "contents" after each proceedings). You must choose *full papers* from the main conference proceedings (not workshop, tutorial, or demos) and a chosen paper shall have at least 7 pages for its main content.
+SIGIR: https://dblp.uni-trier.de/db/conf/sigir/index.html
+ACL: https://dblp.uni-trier.de/db/conf/acl/index.html
+WSDM: https://dblp.uni-trier.de/db/conf/wsdm/index.html
+WWW: https://dblp.uni-trier.de/db/conf/www/index.html  
+
+The full text in PDF of a paper maybe obtained through Google. Alternatively, you may access ACM or other digital libraries through NTU Library: https://libguides.ntu.edu.sg/az.php 
+
+
+
+Regards,
+
+Aixin
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Assignment
+Posted on: Sunday, September 12, 2021 3:58:57 PM SGT
+
+Dear All
+
+The assignment is now released at NTULearn - CourseWebsite - Assignments. If you have any questions regarding assignment, please reply the message in Teams channel.
+
+Please try to form groups by Friday (17 Sep). Students who cannot find groups by then, will be allocated to groups in random order.
+
+Regards,
+
+Aixin
+
+Posted by: SCSE Sun Aixin
+
+Posted to: 21S1-AI6122-TEXT DATA MANAGEMENT & PROCESSING
+
+Join the course Team for online classes
+Posted on: Sunday, August 22, 2021 11:25:33 AM SGT
+
+Dear All
+
+After add/drop period, we should have our class list finalized. Please note that Microsoft Teams will be the main channel for communication or teaching (at least for now) for this course. If you have not joined the course Team yet, please join the course team with code: bi4k4ej
+
+Instructoin: Open MS Teams, click "Join or creat a team" at the bottom of the left panel, then click "Join a team with code" and input bi4k4ej
+
+1. Please note that, I will not pre-schedule online meeting for lectures. The meetings can only be accessed if you are a member of our course team.
+
+2. I have created a Google Sheet for you to form assignment groups. The link is released through MS Teams.
+
+
+
+Regards,
+
+Aixin
+

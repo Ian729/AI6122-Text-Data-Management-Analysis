@@ -1,0 +1,17 @@
+Topics and reference books
+This course covers fundamental techniques to manage and process text data.
+Text indexing and search: inverted index, query processing, ranking, and evaluation
+Word-level, sentence-level, document-level, and collection-level processing: morphological analysis, part-of-speech tagging, parsing, summarization, classification and clustering, and topic modeling
+Case studies and applications: social media text, sentiment analysis, and information extraction
+Reference books:
+ 1. Speech and Language Processing.
+Daniel Jurafsky and James H. Martin, 2nd edition, 2009
+Draft of the 3rd edition: https://web.stanford.edu/~jurafsky/slp3/
+2. Introduction to Information Retrieval
+Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze
+Cambridge University Press. 2008.
+http://nlp.stanford.edu/IR-book/
+
+3. Text Data Management and Analysis
+ChengXiang Zhai, Sean Massung
+ACM and Morgan & Claypool Publishers, July 2016.
